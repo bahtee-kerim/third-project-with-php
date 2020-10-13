@@ -23,20 +23,6 @@
     }
   ],
   "requests": [
-    {
-      "name": "Bahtiyar",
-      "phone": "+905386144834",
-      "id": 1
-    },
-    {
-      "name": "Bahtiyar",
-      "phone": "+905386144834",
-      "id": 2
-    },
-    {
-      "name": "Bahtiyar",
-      "phone": "+905386144834",
-      "id": 3
-    }
+    
   ]
 }
